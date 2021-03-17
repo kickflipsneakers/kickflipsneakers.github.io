@@ -1,4 +1,4 @@
-let time = 1209600;
+let time = 259200;
 
 
 let start = false;
